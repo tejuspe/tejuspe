@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inspiration&family=Montserrat&family=Montserrat+Subrayada:wght@400;700&family=Oleo+Script+Swash+Caps&display=swap");
+
+body {
+   font-family:"Oleo Script Swash Caps" , cursive;
+   max-width: 50%;
+   margin: auto;
+   color: #333;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.face {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.orange {
+    flex: 1;
+    margin-left: 20px;
+    color: gray;
+}
+
+.coral {
+    color: coral;
+}
+
+.degree {
+    letter-spacing: 1px;
+}
+.hrline {
+    border: 1px solid coral;
+}
+
+.table-heading {
+    min-width : 200px;
+    display: block;
+}
+
+.table-pros {
+    font-size: 22px;
+    color: coral;
+}
+
+.marginflix {
+    margin-top: 20px;
+}
+.JHeading {
+    font-size: 30px;
+    line-height: 25px;
+}
+
+.Jduration {
+    font-weight: 200;
+    line-height: 30px
+}
+.jdiscription {
+    margin-top: 2.5px;
+}
