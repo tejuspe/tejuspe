@@ -10,7 +10,7 @@ public class TimeComplexityDemo
         System.out.println("Time taken- " +(System.currentTimeMillis() - now) + " millisecs. ");
     }
 
-    public int findSum(int n)
+    public int findSum(int n)// This method save times again it takes less space on virtual machine.
     {
         return n * (n+1) /2;
     }
