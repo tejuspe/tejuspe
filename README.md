@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tejuspe
+<br >
 - 👀 I’m interested in coding with new edge tech.
 - 🌱 I’m currently learning java continiously.
 - 💞️ I’m looking to collaborate on real life projects of healthcare using code and making virtual games.
